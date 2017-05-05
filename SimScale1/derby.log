@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 05 15:24:16 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-d8c8-47a0-000003463158 
+on database directory memory:/Users/Rashmi/Documents/workspace/SimScale1/testDB with class loader sun.misc.Launcher$AppClassLoader@234f79cb 
+Loaded from file:/Users/Rashmi/Documents/workspace/SimScale1/WebContent/WEB-INF/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=/Users/Rashmi/Documents/workspace/SimScale1
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
